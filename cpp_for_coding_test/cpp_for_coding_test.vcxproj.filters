@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\SWEA">
       <UniqueIdentifier>{4fb87910-8b7d-428f-820b-c23ee3dba82b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{fdec3a37-d986-4771-bde8-b217380ea4fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="q15829.cpp">
@@ -71,6 +74,12 @@
     </ClCompile>
     <ClCompile Include="q1245.cpp">
       <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="q18870.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="q3425.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
